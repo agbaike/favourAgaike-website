@@ -1,0 +1,32 @@
+.new-header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top:10px;
+  flex: 1;
+margin-bottom: 0;}
+
+.ham{
+  display: flex;
+  align-items: center;
+margin-left: 75px;
+margin-right: 70px;}
+
+  .hamp{height: 40px;}
+
+.goo{display: flex;
+  align-items: center;}
+
+  .goop{ height: 60px;
+  }
+
+.b{display: flex;
+  align-items: center;
+margin-right: 75px;
+margin-left: 70px;
+flex-shrink: 0;}
+
+  .bp{ height: 60px; width: 60px;
+    border-radius: 30px;
+    flex-shrink: 0;
+  }

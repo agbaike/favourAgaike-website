@@ -1,0 +1,58 @@
+<style>
+.p{
+    
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  }
+  
+  .Video-title{
+    font-weight: bold;
+    color: rgb(33, 37, 41);
+    font-size: 18px;
+    width: 280px;
+    line-height: 24px;
+    margin-bottom: 6px;
+  }
+  
+  .Video-stats{
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin: button 20px;
+    
+  }
+  
+  .mb{
+    font-size: 14px;
+    color:rgb(96, 96, 96);
+    margin-bottom: 20px;
+  }
+  
+  .VS{
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    width:280px;
+    line-height: 22px;
+    margin-bottom: 100px;
+  
+  }
+  
+  .sp{
+  margin-bottom: 50px;
+  font-size: 14px;
+  background-color: rgb(227, 65, 64);
+  color: white;
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  }
+  
+  .sn{
+    cursor: pointer;
+    margin-left: 3px;
+  }
+  
+  .sn:hover{
+    text-decoration: underline;}
+    <style/>
+    

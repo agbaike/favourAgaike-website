@@ -1,0 +1,12 @@
+
+.p{
+  font-family:Arial;
+  margin:0}
+
+  .body{
+
+    /* This style below will be inherited*/
+    margin: 0;
+padding:80px 24px 0 96px;
+background-color: rgb(248, 242, 242);
+font-family: Arial;}

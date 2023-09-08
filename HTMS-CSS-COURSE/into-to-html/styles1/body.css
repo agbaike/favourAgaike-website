@@ -1,0 +1,36 @@
+.wholebody{
+  display: grid; grid-template-columns: 1fr 1fr 1fr;grid-template-rows:1fr 1fr 1fr; 
+  margin-top: 45px; column-gap: 5px ; row-gap: 30px;
+    align-items: center;}
+  
+  .image{
+    width: 100%;
+    display: grid;
+    align-items: center;
+  }
+  
+  .picture{ width: 250px;height: 250px; border-radius: 50%; display: grid;
+    align-items: center;}
+  
+  .fp{
+      font-size: 25px;
+      font-weight: 100px;
+      line-height: 30px;
+      margin-bottom: 20px;
+    font-family: "Helvetica Neue";}
+  
+  
+    .mp{
+      font-size: 15px;
+      color: rgb(141, 141, 137)}
+  
+    .timep{
+      display: grid;
+    align-items: center;
+      color: rgb(141, 141, 137);
+      font-size: 25px;}
+  
+      .text-body{ margin-left: -100px;}
+  
+      .time{margin-left: 200px;}
+  
